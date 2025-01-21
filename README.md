@@ -13,7 +13,7 @@ Utilizo una variedad de tecnologías, incluyendo:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"/> CSS
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> C++
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="20"/> Git
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"/> HTML
 
 
@@ -35,7 +35,7 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 ## 📫 Conéctame
 Si deseas ponerte en contacto conmigo, puedes encontrarme en:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/diego-ria%C3%B1o-329748277/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="20"/> [LinkedIn](https://www.linkedin.com/in/diego-ria%C3%B1o-329748277/)
 - [Tu sitio web](tu-sitio-web)
 
 ¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante. 😊
