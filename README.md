@@ -3,22 +3,25 @@
 
 ¡Hola! Soy [Tu Nombre], un desarrollador apasionado por [tus intereses o tecnologías]. Este repositorio contiene [una breve descripción de lo que contiene el repositorio].
 
-## 🚀 Proyectos
 
-Aquí hay una lista de algunos de mis proyectos destacados:
-
-- **[Nombre del Proyecto 1]**: [Descripción breve del proyecto 1. ¿Qué hace? ¿Qué tecnologías usaste?]
-- **[Nombre del Proyecto 2]**: [Descripción breve del proyecto 2.]
-- **[Nombre del Proyecto 3]**: [Descripción breve del proyecto 3.]
 
 ## 🛠 Tecnologías
 
 Utilizo una variedad de tecnologías, incluyendo:
 
-- [Tecnología 1]
-- [Tecnología 2]
-- [Tecnología 3]
+- React
+- JavaScript
+- Python
+- c++
+  
 
+## 🚀 Proyectos
+
+Aquí hay una lista de algunos de mis proyectos destacados:
+
+- e-comerce [Descripción breve del proyecto 1. ¿Qué hace? ¿Qué tecnologías usaste?]
+- **[Nombre del Proyecto 2]**: [Descripción breve del proyecto 2.]
+- **[Nombre del Proyecto 3]**: [Descripción breve del proyecto 3.]
 ## 📫 Conéctame
 
 Si deseas ponerte en contacto conmigo, puedes encontrarme en:
