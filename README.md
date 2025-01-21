@@ -1,7 +1,6 @@
 ## Hi there 👋 my name is Diego Riaño
-# 👋 Bienvenido a mi repositorio
 
-¡Hola! Soy [Tu Nombre], un desarrollador apasionado por [tus intereses o tecnologías]. Este repositorio contiene [una breve descripción de lo que contiene el repositorio].
+¡Hola! Soy Diego, ingeniero mecatronico apasionado por el software, el diseño y la tecnologia. Este repositorio contiene proyectos en los que a trabajado o estoy trabajndo, ideas y practicas de todo tipo 
 
 
 
@@ -11,8 +10,10 @@ Utilizo una variedad de tecnologías, incluyendo:
 
 - React
 - JavaScript
+- css
 - Python
 - c++
+- html
   
 
 ## 🚀 Proyectos
