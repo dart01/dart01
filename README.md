@@ -23,10 +23,12 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 - e-comerce [Descripción breve del proyecto 1. ¿Qué hace? ¿Qué tecnologías usaste?]
 - **[Nombre del Proyecto 2]**: [Descripción breve del proyecto 2.]
 - **[Nombre del Proyecto 3]**: [Descripción breve del proyecto 3.]
-## 📫 Conéctame
+
 ## 📊 Mis estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dart01&show_icons=true&theme=radical)
+![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=dart01&layout=compact&theme=radical)
+## 📫 Conéctame
 Si deseas ponerte en contacto conmigo, puedes encontrarme en:
 
 - [Tu LinkedIn](tu-linkedin)
