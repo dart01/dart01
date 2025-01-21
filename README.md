@@ -35,7 +35,7 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 ## 📫 Conéctame
 Si deseas ponerte en contacto conmigo, puedes encontrarme en:
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/LinkedIn_Logo.svg" alt="LinkedIn" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/diego-ria%C3%B1o-329748277/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/diego-ria%C3%B1o-329748277/)
 - [Tu sitio web](tu-sitio-web)
 
 ¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante. 😊
