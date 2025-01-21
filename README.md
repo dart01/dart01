@@ -1,12 +1,11 @@
 ## Hi there 👋 my name is Diego Riaño
 
-¡Hola! Soy Diego, ingeniero mecatronico apasionado por el software, el diseño y la tecnologia. Este repositorio contiene proyectos en los que a trabajado o estoy trabajndo, ideas y practicas de todo tipo 
+Hello! I am Diego, a mechatronics engineer passionate about software, design, and technology. This repository contains projects I have worked on or am currently working on, as well as ideas and practices of all kinds.
 
 
+## 🛠 Technologies
 
-## 🛠 Tecnologías
-
-Utilizo una variedad de tecnologías, incluyendo:
+I use a variety of technologies, including:
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"/> React
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
@@ -17,28 +16,28 @@ Utilizo una variedad de tecnologías, incluyendo:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"/> HTML
 
 
-## 🚀 Proyectos
+## 🚀 Projects
 
-Aquí hay una lista de algunos de mis proyectos destacados:
+Here is a list of some of my highlighted projects:
 
 - e-comerce [Descripción breve del proyecto 1. ¿Qué hace? ¿Qué tecnologías usaste?]
 - **[Nombre del Proyecto 2]**: [Descripción breve del proyecto 2.]
 - **[Nombre del Proyecto 3]**: [Descripción breve del proyecto 3.]
 
-## 📊 Mis estadísticas de GitHub
+## 📊 My GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=dart01&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="400" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dart01&layout=compact&theme=radical" alt="Lenguajes de programación" width="400" height="200"/>
 </div>
 
-## 📫 Conéctame
-Si deseas ponerte en contacto conmigo, puedes encontrarme en:
+## 📫 Connect with Me
+If you would like to get in touch with me, you can find me at:
 
 - [LinkedIn](https://www.linkedin.com/in/diego-ria%C3%B1o-329748277/)
 - [Tu sitio web](tu-sitio-web)
 
-¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante. 😊
+Thank you for visiting my repository! I hope you find something interesting. 😊
 <!--
 **dart01/dart01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
