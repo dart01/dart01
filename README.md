@@ -27,8 +27,10 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 
 ## 📊 Mis estadísticas de GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=dart01&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="auto" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dart01&layout=compact&theme=radical" alt="Lenguajes de programación" width="auto" height="200"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dart01&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dart01&layout=compact&theme=radical" alt="Lenguajes de programación" width="400" height="200"/>
+</div>
 
 ## 📫 Conéctame
 Si deseas ponerte en contacto conmigo, puedes encontrarme en:
