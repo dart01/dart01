@@ -13,6 +13,7 @@ Utilizo una variedad de tecnologías, incluyendo:
 - css
 - Python
 - c++
+- git
 - html
   
 
@@ -31,8 +32,7 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 ## 📫 Conéctame
 Si deseas ponerte en contacto conmigo, puedes encontrarme en:
 
-- [Tu LinkedIn](tu-linkedin)
-- [Tu Twitter](tu-twitter)
+- [[Tu LinkedIn](tu-linkedin)](https://www.linkedin.com/in/diego-ria%C3%B1o-329748277/)
 - [Tu sitio web](tu-sitio-web)
 
 ¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante. 😊
