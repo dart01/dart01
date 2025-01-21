@@ -8,13 +8,13 @@
 
 Utilizo una variedad de tecnologías, incluyendo:
 
-- React
-- JavaScript
-- css
-- Python
-- c++
-- git
-- html
+- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++
+- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Git
+- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML
   
 
 ## 🚀 Proyectos
