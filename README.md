@@ -21,7 +21,7 @@ I use a variety of technologies, including:
 Here is a list of some of my highlighted projects:
 
 - e-comerce [Descripción breve del proyecto 1. ¿Qué hace? ¿Qué tecnologías usaste?]
-- **[Nombre del Proyecto 2]**: [Descripción breve del proyecto 2.]
+- Servi Land Rover: landing page para taller automotriz especializado en Land Rover
 - **[Nombre del Proyecto 3]**: [Descripción breve del proyecto 3.]
 
 ## 📊 My GitHub Stats
