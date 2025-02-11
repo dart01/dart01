@@ -2,7 +2,6 @@
 
 Hello! I am Diego, a mechatronics engineer passionate about software, design, and technology. This repository contains projects I have worked on or am currently working on, as well as ideas and practices of all kinds.
 
-
 ## 🛠 Technologies
 
 I use a variety of technologies, including:
@@ -15,6 +14,10 @@ I use a variety of technologies, including:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"/> HTML
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Figma-logo.svg/1024px-Figma-logo.svg.png" alt="Figma" width="20" height="20"/> Figma
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Adobe_XD_logo_2019.svg/1024px-Adobe_XD_logo_2019.svg.png" alt="Adobe XD" width="20" height="20"/> Adobe XD
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="20" height="20"/> Photoshop
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Adobe_Illustrator_CC_icon.svg/1024px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" width="20" height="20"/> Illustrator
 
 ## 🚀 Projects
 
@@ -35,7 +38,7 @@ Here is a list of some of my highlighted projects:
 If you would like to get in touch with me, you can find me at:
 
 - [LinkedIn](https://www.linkedin.com/in/diego-ria%C3%B1o-329748277/)
-- [Tu sitio web](tu-sitio-web)
+- [Portafolio]([https://portafolio-six-mu-32.vercel.app/)
 
 Thank you for visiting my repository! I hope you find something interesting. 😊
 <!--
