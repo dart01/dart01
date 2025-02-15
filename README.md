@@ -1,6 +1,14 @@
 ## Hi there 👋 my name is Diego Riaño
 
-Hello! I am Diego, a mechatronics engineer passionate about software, design, and technology. This repository contains projects I have worked on or am currently working on, as well as ideas and practices of all kinds.
+Hello! My name is Diego Riaño, passionate mechatronic engineer 
+        for creating innovative technological solutions. I combine programming in
+        with React, Python, JavaScript and MySQL with user experience design (UI/UX) 
+        using tools like Figma, Adobe XD, Photoshop and Illustrator.
+        My approach is simple: understand user needs and transform them 
+        in functional, visually attractive and easy-to-use applications. I enjoy 
+        merging the technical with the creative to build digital experiences that mark 
+        the difference. Take a look at my portfolio and let's see how I can help you carry 
+        your ideas to the next level!
 
 ## 🛠 Technologies
 
