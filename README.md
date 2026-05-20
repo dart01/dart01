@@ -1,56 +1,73 @@
-## Hi there 👋 my name is Diego Riaño
+## Hola, soy Diego Riaño 👋
 
-Hello! My name is Diego Riaño, a passionate Mechatronic Engineer dedicated to creating innovative technological solutions. I bridge the gap between hardware and software, combining full-stack development (React, Python, JavaScript, MySQL) with **Machine Learning, Computer Vision**, and advanced 3D modeling in **SolidWorks**.
+Ingeniero Mecatrónico enfocado en Machine Learning e Inteligencia Artificial aplicada. 
+Me interesa construir sistemas que realmente funcionen — desde el modelo hasta el deploy. 
+Actualmente construyendo mi portafolio en ML/IA con proyectos end-to-end desplegados en producción.
 
-My approach is simple: understand user and engineering needs, then transform them into functional, intelligent, and visually attractive applications. I enjoy merging technical precision with creative AI solutions to build digital experiences that make a difference. Take a look at my portfolio and let's see how I can help you take your ideas to the next level!
+---
 
-## 🛠 Technologies & Tools
+## 🛠 Stack tecnológico
 
-I use a variety of technologies across software development, AI, and engineering:
+### Machine Learning & IA
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### 💻 Software & Web Development
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"/> React
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> C++
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"/> HTML / <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"/> CSS
+### Desarrollo
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-### 🤖 Machine Learning & Vision
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="20" height="20"/> PyTorch / TensorFlow
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="20" height="20"/> OpenCV (Computer Vision)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="20" height="20"/> FastAPI (AI Deployment)
+---
 
-### 📐 Mechanical Design & UI/UX
-- 🛠 **SolidWorks** (3D Modeling, Motion & CAM)
-- 🎨 Figma, Adobe XD, Photoshop & Illustrator
+## 🚀 Proyectos
 
+### 🔍 VisionShop — Clasificador de Imágenes con Deep Learning
+CNN entrenada desde cero en PyTorch sobre CIFAR-10 (60K imágenes, 10 categorías). 
+Alcanzó **76% de accuracy** en test. Demo interactiva donde subes una imagen y 
+el modelo la clasifica en tiempo real.
 
-## 🚀 Projects
+[🔗 Demo en vivo](https://huggingface.co/spaces/dart01/visionshop) · 
+[📁 Código](https://github.com/dart01/visionshop)
 
-Here is a list of some of my highlighted projects:
+---
 
-- **ShopMind**: [Descripción breve de tu motor de recomendaciones / IA aplicada al e-commerce]
-- **e-commerce**: [Descripción breve del proyecto. ¿Qué hace? ¿Qué tecnologías usaste?]
-- **Servi Land Rover**: Landing page para taller automotriz especializado en Land Rover.
-- **Calculadora Electrónica**: [Descripción breve del proyecto.]
+### 📄 AskDocs — Pipeline RAG para Documentos PDF
+Sistema de preguntas y respuestas sobre PDFs implementando RAG desde cero con 
+FAISS para búsqueda vectorial y Llama 3 via Groq para generación de respuestas. 
+Sin frameworks que oculten la lógica interna.
 
-## 📊 My GitHub Stats
+[🔗 Demo en vivo](https://huggingface.co/spaces/dart01/askdocs) · 
+[📁 Código](https://github.com/dart01/askdocs)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dart01&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dart01&layout=compact&theme=radical" alt="Lenguajes de programación" width="400" height="200"/>
+---
+
+### 🛍️ ShopMind — Motor de Recomendaciones para E-commerce
+Motor de recomendaciones entrenado sobre 2M+ reseñas de Amazon. Implementa 
+Collaborative Filtering con ALS y embeddings semánticos con sentence-transformers. 
+Dos modelos comparados con métricas Precision@K y NDCG.
+
+[🔗 Demo en vivo](https://huggingface.co/spaces/dart01/shopmind) · 
+[📁 Código](https://github.com/dart01/shopmind)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dart01&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dart01&layout=compact&theme=radical" width="400"/>
 </div>
 
-## 📫 Connect with Me
-If you would like to get in touch with me, you can find me at:
+---
 
-- [LinkedIn](https://www.linkedin.com/in/diego-ria%C3%B1o-329748277/)
-- [Portafolio](https://portafolio-six-mu-32.vercel.app/)
+## 📫 Contacto
 
-Thank you for visiting my repository! I hope you find something interesting. 😊
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-ria%C3%B1o-329748277/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=flat&logo=vercel&logoColor=white)](https://portafolio-six-mu-32.vercel.app/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/dart01)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
