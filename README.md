@@ -44,6 +44,28 @@ Actualmente enfocado en proyectos de Machine Learning e IA desplegados en produc
 
 ## 🚀 Proyectos destacados
 
+### 🛒 Motores y Autopartes ED — E-commerce de Autopartes
+Tienda en línea completa para venta de autopartes y repuestos con envíos a todo Colombia.
+Catálogo de productos, carrito de compras y base de datos en tiempo real con Supabase.
+Desplegado en Vercel.
+
+**Stack:** React · Supabase · Vercel
+
+(https://www.motoresyautopartesed.com/) · [📁 Código](https://github.com/dart01/sitio-ma)
+
+---
+
+### 🔧 ServiLand Rover — Landing Page de Taller Especializado
+Landing page profesional para taller especializado en Land Rover.
+Diseño orientado a conversión con información de servicios, contacto y presencia de marca.
+Desplegado en Vercel.
+
+**Stack:** React · CSS · Vercel
+
+[🔗 Demo en vivo](https://servi-land-rover.vercel.app/) · [📁 Código](https://github.com/dart01/Servi-Land-Rover)
+
+---
+
 ### 🔍 VisionShop — Clasificador de Imágenes con Deep Learning
 CNN entrenada desde cero en PyTorch sobre CIFAR-10. Alcanzó **76% de accuracy**.
 Demo interactiva donde subes una imagen y el modelo la clasifica en tiempo real.
