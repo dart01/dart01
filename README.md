@@ -83,7 +83,7 @@ y embeddings semánticos para recomendar productos de dos formas distintas.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dart01&layout=donut&theme=radical&hide_border=true&langs_count=6" width="49%"/>
 
-</div>>
+</div>
 
 ---
 
