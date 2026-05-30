@@ -81,9 +81,9 @@ y embeddings semánticos para recomendar productos de dos formas distintas.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dart01&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dart01&layout=compact&theme=radical" width="400"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=dart01&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dart01&layout=compact&theme=radical&hide_border=true&langs_count=6" width="49%"/>
+</div>>
 
 ---
 
