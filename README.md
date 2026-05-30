@@ -51,7 +51,7 @@ Desplegado en Vercel.
 
 **Stack:** React · Supabase · Vercel
 
-(https://www.motoresyautopartesed.com/) · [📁 Código](https://github.com/dart01/sitio-ma)
+https://www.motoresyautopartesed.com/ · [📁 Código](https://github.com/dart01/sitio-ma)
 
 ---
 
@@ -62,7 +62,7 @@ Desplegado en Vercel.
 
 **Stack:** React · CSS · Vercel
 
-[🔗 Demo en vivo](https://servi-land-rover.vercel.app/) · [📁 Código](https://github.com/dart01/Servi-Land-Rover)
+https://servi-land-rover.vercel.app/ · [📁 Código](https://github.com/dart01/Servi-Land-Rover)
 
 ---
 
